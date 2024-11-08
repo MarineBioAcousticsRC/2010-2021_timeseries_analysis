@@ -3,7 +3,7 @@ Code for plotting and estimating trends for GOM long term trends paper
 Data can be downloaded from: 
 https://doi.org/10.5061/dryad.9zw3r22n4 (pending release by Dryad)
 
-The main script for plotting these timeseries is plot_timeseries_weeks_nature_dryad.
+The main script for plotting these timeseries is plot_bin_TS_weeks_ncoms.m
 
 All other scripts are called by this main script.
 
@@ -16,7 +16,7 @@ Labels with scores near 0 are less likely to be correct.
 
 Daily recording effort information is provided in .mat files in the Effort folder, combined in the code with additional deployment information stored in the code folde.
 
-Output is saved to the TimeSeries folder, organized by site.
+Output is saved to a TimeSeries folder, organized by site.
 
 Species codes include:
 Gg: Grampus griseus
