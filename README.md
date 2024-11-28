@@ -1,7 +1,7 @@
 # 2010-2021_timeseries_analysis
 Code for plotting and estimating trends for GOM long term trends paper
 Data can be downloaded from: 
-https://doi.org/10.5061/dryad.9zw3r22n4 (pending release by Dryad)
+https://doi.org/10.5061/dryad.9zw3r22n4
 
 The main script for plotting these timeseries is plot_bin_TS_weeks_ncoms.m
 
